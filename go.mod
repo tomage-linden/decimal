@@ -1,3 +1,3 @@
-module github.com/shopspring/decimal
+module github.com/tomage-linden/decimal
 
-go 1.13
+go 1.18
